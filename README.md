@@ -1,5 +1,9 @@
 # Hi, I'm Moses Otieno! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Programming+%7C+Web+Tech;Go+%7C+Rust+%7C+JavaScript;Zone01+Kisumu+Student" alt="Typing SVG" />
+</div>
+
 Software developer from Zone01 Kisumu, passionate about systems programming and web technologies.
 
 ## 🛠️ Tech Stack
@@ -8,7 +12,10 @@ Software developer from Zone01 Kisumu, passionate about systems programming and 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moseeh&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moseeh&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=moseeh&theme=radical&hide_border=true"/>
+</p>
 
 ## 🌟 Featured Projects
 - 🚗 [**smart-road**](https://github.com/moseeh/smart-road) - Autonomous vehicle simulation in Rust
