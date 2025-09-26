@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Programming+%7C+Web+Tech;Go+%7C+Rust+%7C+JavaScript;Building+Cool+Things" alt="Typing SVG" />
 </div>
 
-Software developer from Zone01 Kisumu, passionate about systems programming and web technologies.
+Software developer passionate about systems programming and web technologies.
 
 ## 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
