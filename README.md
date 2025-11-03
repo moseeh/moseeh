@@ -24,6 +24,7 @@ Software developer passionate about systems programming and web technologies.
 
 ## Writing
 I share technical insights on [DEV Community](https://dev.to/moseeh_52)
+[Check out my latest article](https://dev.to/moseeh_52/two-paths-to-safety-how-go-and-rust-made-opposite-bets-2980)
 
 ## Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-production-0f8f.up.railway.app/)
