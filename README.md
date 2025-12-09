@@ -13,8 +13,12 @@ Software Developer passionate about systems programming and web technologies.
 
 ## GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moseeh&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=moseeh&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moseeh&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moseeh&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moseeh&theme=radical"/>
 </p>
 
 ## Featured Projects
