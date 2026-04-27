@@ -17,10 +17,6 @@ Software Developer passionate about systems programming and web technologies.
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moseeh&theme=dracula"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moseeh&theme=dracula"/>
-</p>
-
 ## Featured Projects
 - [**smart-road**](https://github.com/moseeh/smart-road) - Autonomous vehicle simulation in Rust
 - [**real-time-forum**](https://github.com/moseeh/real-time-forum) - Real-time forum built with Go
