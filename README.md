@@ -27,6 +27,11 @@ Software Developer passionate about systems programming and web technologies.
 - [**smart-road**](https://github.com/moseeh/smart-road) - Autonomous vehicle simulation in Rust
 - [**real-time-forum**](https://github.com/moseeh/real-time-forum) - Real-time forum built with Go
 
+## What I'm Up To
+- Building: [**localhost**](https://github.com/moseeh/localhost)
+- Learning: WebAssembly / Distributed Systems / Cybersecurity
+- Writing about Go & Rust on DEV Community
+
 ## Writing
 - I share technical insights on [DEV Community](https://dev.to/moseeh_52)
 
