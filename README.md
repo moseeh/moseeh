@@ -1,4 +1,4 @@
-# Hi, I'm Moses Otieno! 👋
+# Hi, I'm Moses Otieno! 👋 ![](https://komarev.com/ghpvc/?username=moseeh&color=F75C7E&style=flat-square)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Systems+Programming+%7C+Web+Tech;Go+%7C+Rust+%7C+JavaScript;Building+Cool+Things" alt="Typing SVG" />
