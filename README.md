@@ -20,7 +20,6 @@ Software Developer passionate about systems programming and web technologies.
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moseeh&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moseeh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=moseeh&theme=dracula"/>
 </p>
 
 ## Featured Projects
